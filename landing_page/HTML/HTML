@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>InternCrowd | Internship Program</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Internships</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="hero">
+        <h1>InternCrowd</h1>
+        <h2>Join our Internship Program</h2>
+        <a href="#" class="btn btn-primary">Apply Now</a>
+      </section>
+      <section class="features">
+        <h2>Why InternCrowd?</h2>
+        <ul>
+          <li>
+            <img src="K:/landing page/Real-World Experience.jpg" alt="Feature 1">
+            <h3>Real-World Experience</h3>
+            <p>Our internships provide you with the opportunity to gain valuable real-world experience in your chosen field.</p>
+          </li>
+          <li>
+            <img src="K:/landing page/Networking Opportunities.jpg" alt="Feature 2">
+            <h3>Networking Opportunities</h3>
+            <p>You'll have the chance to meet and connect with professionals in your field, building your network and expanding your opportunities.</p>
+          </li>
+          <li>
+            <img src="K:/landing page/Mentorship and Support.png" alt="Feature 3">
+            <h3>Mentorship and Support</h3>
+            <p>Our team of experienced professionals will provide you with mentorship and support throughout your internship.</p>
+          </li>
+        </ul>
+      </section>
+      <section class="testimonials">
+        <h2>What Our Interns Say</h2>
+        <ul>
+          <li>
+            <img src="K:/landing page/What Our Interns Say1.jpg" alt="Testimonial 1">
+            <p>"I had an amazing experience with InternCrowd. The mentorship and support I received helped me grow both personally and professionally."</p>
+            <cite>John Doe, Marketing Intern</cite>
+          </li>
+          <li>
+            <img src="K:/landing page/What Our Interns Say2.jpg" alt="Testimonial 2">
+            <p>"InternCrowd gave me the opportunity to gain real-world experience in my field and make valuable connections. I would highly recommend this program."</p>
+            <cite>Jane Smith, Engineering Intern</cite>
+          </li>
+          <li>
+            <img src="K:/landing page/What Our Interns Say3.jpg" alt="Testimonial 3">
+            <p>"I learned so much during my internship with InternCrowd. The experience was invaluable and has helped me jumpstart my career."</p>
+            <cite>Michael Johnson, Sales Intern</cite>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 InternCrowd</p>
